@@ -1,0 +1,339 @@
+{
+  "studentGroup": {
+    "groupNumber": "8105",
+    "facultyName": "Фармацевтический факультет",
+    "course": 1
+  },
+
+  "schedules": {
+    "weekDay": {
+
+      "Понедельник": {
+        "lessonList": [
+          {
+            "weekType": "0",
+            "auditory": "404-1 к.",
+            "startLessonTime": "9:00",
+            "endLessonTime": "11:30",
+            "subject": "Анатомия и физиология человека",
+            "employee": {
+              "fio": "Иванов И. И.",
+              "photoLink": "https://journal.bsmu.by/api/..."
+            }
+          },
+
+          {
+            "weekType": "0",
+            "auditory": "404-1 к.",
+            "startLessonTime": "13:30",
+            "endLessonTime": "15:05",
+            "subject": "Физич. и коллоидная химия",
+            "employee": {
+              "fio": "Иванов И. И.",
+              "photoLink": "https://journal.bsmu.by/api/..."
+            }
+          }
+        ]
+      },
+
+      "Вторник": {
+        "lessonList": [
+          {
+            "weekType": "2",
+            "auditory": "404-1 к.",
+            "startLessonTime": "9:00",
+            "endLessonTime": "11:30",
+            "subject": "Анатомия и физиология человека",
+            "lessonType": "ПЗ",
+            "employee": {
+              "fio": "Иванов И. И.",
+              "photoLink": "https://journal.bsmu.by/api/..."
+            }
+          },
+
+          {
+            "weekType": "2",
+            "auditory": "404-1 к.",
+            "startLessonTime": "13:30",
+            "endLessonTime": "15:05",
+            "subject": "Физич. и коллоидная химия",
+            "lessonType": "ПЗ",
+            "employee": {
+              "fio": "Иванов И. И.",
+              "photoLink": "https://journal.bsmu.by/api/..."
+            }
+          }
+        ]
+      },
+
+      "Среда": {
+        "lessonList": [
+          {
+            "weekType": "2",
+            "auditory": "404-1 к.",
+            "startLessonTime": "9:00",
+            "endLessonTime": "11:30",
+            "subject": "Анатомия и физиология человека",
+            "lessonType": "ПЗ",
+            "employee": {
+              "fio": "Иванов И. И.",
+              "photoLink": "https://journal.bsmu.by/api/..."
+            }
+          },
+
+          {
+            "weekType": "2",
+            "auditory": "404-1 к.",
+            "startLessonTime": "13:30",
+            "endLessonTime": "15:05",
+            "subject": "Физич. и коллоидная химия",
+            "lessonType": "ПЗ",
+            "employee": {
+              "fio": "Иванов И. И.",
+              "photoLink": "https://journal.bsmu.by/api/..."
+            }
+          }
+        ]
+      },
+
+
+      "Четверг": {
+        "lessonList": [
+          {
+            "weekType": "2",
+            "auditory": "404-1 к.",
+            "startLessonTime": "9:00",
+            "endLessonTime": "11:30",
+            "subject": "Анатомия и физиология человека",
+            "lessonType": "ПЗ",
+            "employee": {
+              "fio": "Иванов И. И.",
+              "photoLink": "https://journal.bsmu.by/api/..."
+            }
+          },
+
+          {
+            "weekType": "2",
+            "auditory": "404-1 к.",
+            "startLessonTime": "13:30",
+            "endLessonTime": "15:05",
+            "subject": "Физич. и коллоидная химия",
+            "lessonType": "ПЗ",
+            "employee": {
+              "fio": "Иванов И. И.",
+              "photoLink": "https://journal.bsmu.by/api/..."
+            }
+          }
+        ]
+      },
+
+      "Пятница": {
+        "lessonList": [
+          {
+            "weekType": "2",
+            "auditory": "404-1 к.",
+            "startLessonTime": "9:00",
+            "endLessonTime": "11:30",
+            "subject": "Анатомия и физиология человека",
+            "lessonType": "ПЗ",
+            "employee": {
+              "fio": "Иванов И. И.",
+              "photoLink": "https://journal.bsmu.by/api/..."
+            }
+          },
+
+          {
+            "weekType": "2",
+            "auditory": "404-1 к.",
+            "startLessonTime": "13:30",
+            "endLessonTime": "15:05",
+            "subject": "Физич. и коллоидная химия",
+            "lessonType": "ПЗ",
+            "employee": {
+              "fio": "Иванов И. И.",
+              "photoLink": "https://journal.bsmu.by/api/..."
+            }
+          }
+        ]
+      },
+      "examSchedules": [],
+      "todayDate": "14.03.2021",
+      "todaySchedules": [],
+      "tomorrowDate": "15.03.2021",
+      "tomorrowSchedules": [
+        {
+          "weekNumber": [ 1 ],
+          "studentGroup": [ "010901" ],
+          "studentGroupInformation": [ "010901#24#1-58 01 01 Инженерно-психологическое обеспечение информационных технологий" ],
+          "numSubgroup": 0,
+          "auditory": [ "431-1 к." ],
+          "lessonTime": "09:00-10:20",
+          "startLessonTime": "09:00",
+          "endLessonTime": "10:20",
+          "gradebookLesson": "None",
+          "subject": "ОИАД",
+          "note": "None",
+          "lessonType": "ЛК",
+          "employee": [
+            {
+              "firstName": "Дарья",
+              "lastName": "Пархоменко",
+              "middleName": "Александровна",
+              "degree": "",
+              "rank": "None",
+              "photoLink": "https://journal.bsuir.by/api/v1/portal/employees/photo/500178",
+              "calendarId": "ndu2mr235mntcgirob8c7sn690@group.calendar.google.com",
+              "academicDepartment": [ "каф.ИПЭ" ],
+              "id": 500178,
+              "fio": "Пархоменко Д. А."
+            },
+            {
+              "firstName": "Екатерина",
+              "lastName": "Карпович",
+              "middleName": "Борисовна",
+              "degree": "",
+              "rank": "None",
+              "photoLink": "https://journal.bsuir.by/api/v1/portal/employees/photo/504552",
+              "calendarId": "8adeuf13ti0iq7oerruddlm104@group.calendar.google.com",
+              "academicDepartment": [ "каф.ИПЭ" ],
+              "id": 504552,
+              "fio": "Карпович Е. Б."
+            }
+          ],
+          "studentGroupModelList": "None",
+          "zaoch": "False",
+          "gradebookLessonlist": "None"
+        },
+        {
+          "weekNumber": [ 1 ],
+          "studentGroup": [ "010901" ],
+          "studentGroupInformation": [ "010901#24#1-58 01 01 Инженерно-психологическое обеспечение информационных технологий" ],
+          "numSubgroup": 0,
+          "auditory": [ "431-1 к." ],
+          "lessonTime": "10:35-11:55",
+          "startLessonTime": "10:35",
+          "endLessonTime": "11:55",
+          "gradebookLesson": "None",
+          "subject": "Матем",
+          "note": "None",
+          "lessonType": "ЛК",
+          "employee": [
+            {
+              "firstName": "Людмила",
+              "lastName": "Фомичёва",
+              "middleName": "Александровна",
+              "degree": "к.ф.-м.н.",
+              "rank": "доцент",
+              "photoLink": "https://journal.bsuir.by/api/v1/portal/employees/photo/502101",
+              "calendarId": "mcmv4glnln5j2f8rejaj4di1rk@group.calendar.google.com",
+              "academicDepartment": [ "каф.ВМ" ],
+              "id": 502101,
+              "fio": "Фомичёва Л. А. (доцент)"
+            }
+          ],
+          "studentGroupModelList": "None",
+          "zaoch": "False",
+          "gradebookLessonlist": "None"
+        },
+        {
+          "weekNumber": [ 1 ],
+          "studentGroup": [ "010901" ],
+          "studentGroupInformation": [ "010901#24#1-58 01 01 Инженерно-психологическое обеспечение информационных технологий" ],
+          "numSubgroup": 0,
+          "auditory": [ "108-3 к." ],
+          "lessonTime": "12:25-13:45",
+          "startLessonTime": "12:25",
+          "endLessonTime": "13:45",
+          "gradebookLesson": "None",
+          "subject": "Матем",
+          "note": "None",
+          "lessonType": "ПЗ",
+          "employee": [
+            {
+              "firstName": "Людмила",
+              "lastName": "Фомичёва",
+              "middleName": "Александровна",
+              "degree": "к.ф.-м.н.",
+              "rank": "доцент",
+              "photoLink": "https://journal.bsuir.by/api/v1/portal/employees/photo/502101",
+              "calendarId": "mcmv4glnln5j2f8rejaj4di1rk@group.calendar.google.com",
+              "academicDepartment": [ "каф.ВМ" ],
+              "id": 502101,
+              "fio": "Фомичёва Л. А. (доцент)"
+            }
+          ],
+          "studentGroupModelList": "None",
+          "zaoch": "False",
+          "gradebookLessonlist": "None"
+        },
+        {
+          "weekNumber": [ 1 ],
+          "studentGroup": [ "010901" ],
+          "studentGroupInformation": [ "010901#24#1-58 01 01 Инженерно-психологическое обеспечение информационных технологий" ],
+          "numSubgroup": 0,
+          "auditory": [ "110-3 к." ],
+          "lessonTime": "14:00-15:20",
+          "startLessonTime": "14:00",
+          "endLessonTime": "15:20",
+          "gradebookLesson": "None",
+          "subject": "ИнЯз",
+          "note": "None",
+          "lessonType": "ПЗ",
+          "employee": [
+            {
+              "firstName": "Ирина",
+              "lastName": "Маликова",
+              "middleName": "Гаврииловна",
+              "degree": "",
+              "rank": "None",
+              "photoLink": "https://journal.bsuir.by/api/v1/portal/employees/photo/500226",
+              "calendarId": "fektq1pbivpfgriagjq84n2800@group.calendar.google.com",
+              "academicDepartment": [ "каф.ин.язык" ],
+              "id": 500226,
+              "fio": "Маликова И. Г."
+            }
+          ],
+          "studentGroupModelList": "None",
+          "zaoch": "False",
+          "gradebookLessonlist": "None"
+        },
+        {
+          "weekNumber": [ 1 ],
+          "studentGroup": [ "010901" ],
+          "studentGroupInformation": [ "010901#24#1-58 01 01 Инженерно-психологическое обеспечение информационных технологий" ],
+          "numSubgroup": 0,
+          "auditory": [ "509-2 к." ],
+          "lessonTime": "14:00-15:20",
+          "startLessonTime": "14:00",
+          "endLessonTime": "15:20",
+          "gradebookLesson": "None",
+          "subject": "ИнЯз",
+          "note": "None",
+          "lessonType": "ПЗ",
+          "employee": [
+            {
+              "firstName": "Татьяна",
+              "lastName": "Левкович",
+              "middleName": "Викторовна",
+              "degree": "",
+              "rank": "None",
+              "photoLink": "https://journal.bsuir.by/api/v1/portal/employees/photo/500222",
+              "calendarId": "j57gp1rim2lg3mtqm0m8jgi0i4@group.calendar.google.com",
+              "academicDepartment": [ "каф.ин.язык" ],
+              "id": 500222,
+              "fio": "Левкович Т. В."
+            }
+          ],
+          "studentGroupModelList": "None",
+          "zaoch": "False",
+          "gradebookLessonlist": "None"
+        }
+      ],
+      "currentWeekNumber": 4,
+      "dateStart": "09.02.2021",
+      "dateEnd": "07.06.2021",
+      "sessionStart": "None",
+      "sessionEnd": "None"
+    }
+  }
+}
